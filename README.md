@@ -3,7 +3,7 @@
 
 > *"Passive defense is dead. GodSpeed is an Active Hunter."*
 
-![Dashboard Preview](GodSpeed_V3 img.jpeg)
+![GodSpeed Dashboard](Trap_Log_Evidence.jpg)
 
 ## 🛡️ SYSTEM OVERVIEW
 GodSpeed V3 is an offensive security protocol designed to protect servers and networks through **"Active Deception."** Unlike passive antiviruses, GodSpeed deploys a neural trap on Port 8888. When an attacker scans this port, GodSpeed detects them instantly.
@@ -20,8 +20,14 @@ GodSpeed V3 is an offensive security protocol designed to protect servers and ne
 * **Enterprise Licensing:** Includes `key_maker.py` to generate licenses for your clients.
 
 ## 📸 THREAT DETECTION EVIDENCE
-*Real-time intrusion detection via Terminal:*
-![Trap Log](Screenshot 2026-02-06 at 2.30.22 AM.jpg)
+
+### 1. The Neural Trap (Terminal View)
+*Real-time intrusion detection via Python Command Line:*
+![Terminal Evidence](Terminal Screenshot.jpeg)
+
+### 2. The Security Gate (Login)
+*AES-256 Encrypted Access Portal:*
+![Login Gate](Security_Gate_Login.jpg)
 
 ---
 
@@ -33,6 +39,7 @@ The Source Code is a Commercial Product.
 **Purchase the complete Python Source Code, Dashboard, and Commercial Rights instantly:**
 
 👉 **[CLICK HERE TO BUY ON GUMROAD]**
+*(Replace this text with your actual Gumroad Link)*
 
 **What You Get in the Zip:**
 1.  Full Python Script (`godspeed_client.py`)
@@ -43,5 +50,5 @@ The Source Code is a Commercial Product.
 ---
 
 ## 📞 CONTACT
-**Developer:** AbhiMedix Solutions
+**Developer:** AbhiMedix AI Solutions
 **Inquiries:** [abhishek.sikdar096@gmail.com]
